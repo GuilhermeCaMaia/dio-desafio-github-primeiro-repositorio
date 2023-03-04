@@ -1,0 +1,7 @@
+alguns comandos do git
+
+git clone "link"
+git status : para visualisar os estatus do projeto
+git add . : para dicionar todos os arquivos no git local
+git commit -m "aspas para comentar" : para criar o commit
+git push origin main : para enviar para o git hub
